@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ashish Yadav <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey, I'm Ashish Yadav 👋 </h1>
 
 >I am Ashish Yadav.I really enjoy learning languages and frameworks like Tkinter ,as well as work in Frontend💻.
 
