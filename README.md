@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Ashish Yadav 👋 </h1>
 
->I am Ashish Yadav.I really enjoy learning about technologies, languages frameworks and building projects,as well as work on self Development💻.
+>I am Ashish Yadav.I really enjoy learning about technologies, languages, frameworks and building projects, as well as work on self Development💻.
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
